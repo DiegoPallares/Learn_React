@@ -1,5 +1,5 @@
 # test
-Mis comandos de GIT.
+Mis comandos de GIT
 
 --------------------------Linea comandos---------------------------
 ls: Lista de los archivos en la ruta en la que estoy.
