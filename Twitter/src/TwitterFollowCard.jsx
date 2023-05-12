@@ -8,7 +8,7 @@ export function ComponetTwitterFollowCard ({userName, logo, name}){
     //Primera posicion "valor del estado" y segunda posicion "Forma de actualizarlo"
     const [isFollowing, setIsFollowing] = useState(false)
    
-    //*Las constasten que tomaran un valor dependiendo del ternario
+    //*Las constante tomaran un valor dependiendo del ternario
     const text = isFollowing? 'siguiendo' : 'seguir'
     const buttonClassName = isFollowing ? 'tw-followCard-button is-following':'tw-followCard-button'
     
